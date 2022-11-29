@@ -6,8 +6,6 @@
 * [Funcionalidades do Projeto](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
 
 <h1>Página Alura+</h1>
 
