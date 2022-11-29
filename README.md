@@ -37,4 +37,4 @@ O projeto tem como funcionalidade principal, oferecer a promoção do combo alur
 
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/110987082?s=400&u=00cd3c7d76a0504f4b462a14d3e0688eadce3557&v=4" width=115><br><sub>Gustavo Mota</sub>](https://github.com/GuuMotaa)  
+| [<img src="https://avatars.githubusercontent.com/u/110987082?s=400&u=00cd3c7d76a0504f4b462a14d3e0688eadce3557&v=4" width=115><br><sub>Gustavo Mota</sub>](https://github.com/GuuMotaa) |  
