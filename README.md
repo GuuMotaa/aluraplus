@@ -19,6 +19,7 @@ Esse projeto teve como objetivo criar uma página web fictícia sobre a alura pl
 
 O projeto tem como funcionalidade principal, oferecer a promoção do combo alura+ e alura línguas, e dando ao usuário todas as devidas informações sobre a plataforma que ele pretende assinar.
 
+https://guumotaa.github.io/aluraplus/
 
 ![Primeira Section](https://user-images.githubusercontent.com/110987082/204428997-8f65403e-c2f8-4e06-ae5d-aa555bdedbf5.png)
 ![Segunda Section](https://user-images.githubusercontent.com/110987082/204429109-1ddc7930-b83d-4675-a716-2932cdcb3d87.png)
