@@ -17,6 +17,6 @@
 
 ![Badge concluida](https://img.shields.io/badge/status-concluido-green)
 
-#Descrição do Projeto
+# Descrição do Projeto
 
 Esse projeto teve como objetivo criar uma página web fictícia sobre a alura plus, onde é ofericido um plano para o usuário do combo Alura+ e o Alura Línguas. Foi ultilizado o HTML5 e o CSS3 para o desenvolvimento da pagina. 
