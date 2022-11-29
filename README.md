@@ -22,3 +22,9 @@ Esse projeto teve como objetivo criar uma página web fictícia sobre a alura pl
 # Funcionalidade do Projeto
 
 O projeto tem como funcionalidade principal, oferecer a promoção do combo alura+ e alura línguas, e dando ao usuário todas as devidas informações sobre a plataforma que ele pretende assinar.
+
+![Captura de tela 2022-11-29 000504](https://user-images.githubusercontent.com/110987082/204428997-8f65403e-c2f8-4e06-ae5d-aa555bdedbf5.png)
+![Captura de tela 2](https://user-images.githubusercontent.com/110987082/204429109-1ddc7930-b83d-4675-a716-2932cdcb3d87.png)
+![Captura de tela 3](https://user-images.githubusercontent.com/110987082/204429215-6e6befbd-e54b-47fc-9cc0-89f3d1da31cc.png)
+![Captura de tela 4](https://user-images.githubusercontent.com/110987082/204429313-7ff28ec9-33bf-4217-b989-1eb3f8ab051a.png)
+![Captura de tela 5](https://user-images.githubusercontent.com/110987082/204429426-c015fdb9-acd2-4247-b68d-b3bd00370dd5.png)
